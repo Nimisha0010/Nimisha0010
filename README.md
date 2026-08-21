@@ -74,7 +74,7 @@ and turning ideas into projects that actually work.
 
 AI-powered financial analysis platform focused on turning financial data into useful insights.
 
-`Python` `AI/ML` `Data`
+`MERN` `AI/ML` `Data`
 
 </td>
 <td width="50%">
@@ -121,22 +121,6 @@ A machine-learning project designed to estimate the monetization potential of di
 </td>
 </tr>
 </table>
-
----
-
-## `github activity`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nyx0010&show_icons=true&hide_border=true&bg_color=17151C&title_color=B8A9C9&text_color=D1CBD5&icon_color=C9A7B8&ring_color=B8A9C9"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyx0010&layout=compact&hide_border=true&bg_color=17151C&title_color=B8A9C9&text_color=D1CBD5&icon_color=C9A7B8"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Nyx0010&hide_border=true&background=17151C&ring=B8A9C9&fire=C9A7B8&currStreakLabel=B8A9C9&sideLabels=D1CBD5&dates=918B98&currStreakNum=D8D0DC&sideNums=D8D0DC"/>
-
-</div>
 
 ---
 
