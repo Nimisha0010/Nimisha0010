@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=NIMISHA%20TRIPATHI&fontSize=42&fontColor=DDD5E3&fontAlignY=38&animation=fadeIn&color=0:17151C,45:26202B,75:342B39,100:17151C"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=B8A9C9&center=true&vCenter=true&width=650&lines=Software+Developer+%7C+AI%2FML+Enthusiast;Building+projects+that+solve+real+problems;Learning+%7C+Building+%7C+Improving"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=B8A9C9&center=true&vCenter=true&width=650&lines=Software+Developer+%7C+AI%2FML+Data+Science;Building+projects+that+solve+real+problems;Learning+%7C+Building+%7C+Improving"/>
 
 <br><br>
 
@@ -22,13 +22,13 @@
 
 ---
 
-## `who am i`
+## `whoami`
 
 ```text
 Nimisha Tripathi
 
-Aspiring Software Developer
-AI/ML , Data
+Software Developer
+AI / ML , Data
 Engineering Student
 
 I like building practical software, learning new technologies,
