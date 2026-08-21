@@ -18,7 +18,7 @@
 
 ---
 
-## `whoami`
+## `who am i`
 
 ```text
 Nimisha Tripathi
