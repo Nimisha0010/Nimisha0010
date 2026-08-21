@@ -128,7 +128,10 @@ A machine-learning project designed to estimate the monetization potential of di
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Nyx0010/Nyx0010/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
+<img
+src="https://raw.githubusercontent.com/Nimisha0010/Nimisha0010/output/github-contribution-grid-snake-dark.svg"
+alt="GitHub contribution snake"
+/>
 
 </div>
 
