@@ -14,14 +14,15 @@
   <img src="https://img.shields.io/badge/LinkedIn-24212A?style=for-the-badge&logo=linkedin&logoColor=B8B9C9"/>
 </a>
 
-<a href="YOUR_LEETCODE_URL">
+<a href="https://leetcode.com/u/Nimisha_nyx/">
   <img src="https://img.shields.io/badge/LeetCode-24212A?style=for-the-badge&logo=leetcode&logoColor=C9A7B8"/>
 </a>
 
-<a href="mailto:nimishat551@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=nimishat551@gmail.com">
   <img src="https://img.shields.io/badge/Email-24212A?style=for-the-badge&logo=gmail&logoColor=C9A7B8"/>
 </a>
 
+</div>
 </div>
 
 ---
