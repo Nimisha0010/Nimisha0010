@@ -38,9 +38,9 @@ and turning ideas into projects that actually work.
 
 ### Languages
 
-<img src="https://img.shields.io/badge/C++-29252E?style=for-the-badge&logo=python&logoColor=B8A9C9"/>
+<img src="https://img.shields.io/badge/C%2B%2B-29252E?style=for-the-badge&logo=cplusplus&logoColor=B8A9C4"/>
 <img src="https://img.shields.io/badge/Java-29252E?style=for-the-badge&logo=openjdk&logoColor=C9A7B8"/>
-<img src="https://img.shields.io/badge/Python-29252E?style=for-the-badge&logo=cplusplus&logoColor=A8B5C4"/>
+<img src="https://img.shields.io/badge/Python-29252E?style=for-the-badge&logo=python&logoColor=B8A9C9"/>
 <img src="https://img.shields.io/badge/JavaScript-29252E?style=for-the-badge&logo=javascript&logoColor=C8C0A8"/>
 <img src="https://img.shields.io/badge/SQL-29252E?style=for-the-badge&logo=postgresql&logoColor=A8B5C4"/>
 
