@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=NIMISHA%20TRIPATHI&fontSize=44&fontColor=DDD5E3&fontAlignY=38&animation=fadeIn&color=0:121016,45:29212F,75:3A2C3D,100:121016"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=B8A9C9&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+AI%2FML+%7C+Data;Building+practical+software+that+solves+real+problems;Full-Stack+Development+%7C+Backend+%7C+Machine+Learning;Learning+%7C+Building+%7C+Improving"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=B8A9C9&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+AI%2FML+%7C+Data+Analytics;Building+practical+software+that+solves+real+problems;Full-Stack+Development+%7C+Backend+%7C+Machine+Learning;Learning+%7C+Building+%7C+Improving"/>
 
 <br><br>
 
@@ -30,7 +30,7 @@
 
 ---
 
-## `about.me`
+## `About.Me`
 
 ```text
 Nimisha Tripathi
@@ -44,7 +44,7 @@ improving my skills in development, problem solving, and system design.
 
 ---
 
-## `focus`
+## `Focused On Currently `
 
 I'm currently focused on building and learning across:
 
@@ -56,7 +56,7 @@ I'm currently focused on building and learning across:
 
 ---
 
-## `tech.stack`
+## `Tech.Stack`
 
 <div align="center">
 
@@ -181,7 +181,7 @@ Hands-on work exploring machine learning, data analysis and predictive solutions
 
 ---
 
-## `currently`
+## `Currently`
 
 ```text
 → Learning       AI / ML & Full-Stack Development
@@ -193,19 +193,7 @@ Hands-on work exploring machine learning, data analysis and predictive solutions
 
 ---
 
-## `github.stats`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nimisha0010&show_icons=true&hide_border=true&bg_color=17151C&title_color=B8A9C9&text_color=D8D0DC&icon_color=C9A7B8&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimisha0010&layout=compact&hide_border=true&bg_color=17151C&title_color=B8A9C9&text_color=D8D0DC&langs_count=8"/>
-
-</div>
-
----
-
-## `leetcode`
+## `Leetcode`
 
 <div align="center">
 
@@ -275,9 +263,3 @@ alt="GitHub contribution snake"
 
 </div>
 ```
-
-This version has a much more natural flow:
-
-**Intro → Focus → Skills → Project previews → Current work → GitHub stats → LeetCode → Contributions → Contact**
-
-And importantly, the projects are now **previews rather than detailed descriptions or repository links**.
