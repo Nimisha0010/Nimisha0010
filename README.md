@@ -109,7 +109,6 @@ A machine-learning project designed to estimate the monetization potential of di
 
 </td>
 </tr>
-</table>
 
 <tr>
 <td width="50%">
@@ -132,7 +131,7 @@ An AI-assisted platform concept for learning DSA, understanding solutions and im
 </td>
 </tr>
 
-
+</table>
 ---
 
 ## `contribution graph`
