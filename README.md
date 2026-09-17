@@ -27,13 +27,13 @@
 
 ---
 
-## `who am i`
+## `Who Am I`
 
 ```text
 Nimisha Tripathi
 
 Aspiring Software Developer
-AI / ML , Data Analytics
+Passionate About AI / ML , Data Analytics 
 Engineering Student
 
 I like building practical software, learning new technologies,
@@ -42,7 +42,7 @@ and turning ideas into projects that actually work.
 
 ---
 
-## `what I'm working with`
+## `What I'm Working With`
 
 <div align="center">
 
@@ -101,6 +101,19 @@ Battery monitoring and management system covering voltage, current, temperature,
 <tr>
 <td width="50%">
 
+### 📊 Skill Monetization Predictor
+
+A machine-learning project designed to estimate the monetization potential of different user skills.
+
+`Python` `Machine Learning`
+
+</td>
+</tr>
+</table>
+
+<tr>
+<td width="50%">
+
 ### 🎵 Spotify Clone
 
 A responsive music streaming interface with API integration and modern frontend design.
@@ -119,18 +132,6 @@ An AI-assisted platform concept for learning DSA, understanding solutions and im
 </td>
 </tr>
 
-<tr>
-<td width="50%">
-
-### 📊 Skill Monetization Predictor
-
-A machine-learning project designed to estimate the monetization potential of different user skills.
-
-`Python` `Machine Learning`
-
-</td>
-</tr>
-</table>
 
 ---
 
