@@ -24,8 +24,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Nimisha0010&style=flat-square&color=9B86B3&label=PROFILE+VIEWS"/>
-
 </div>
 
 ---
@@ -99,7 +97,7 @@ I'm currently focused on building and learning across:
 
 ---
 
-## `featured.projects`
+## `Featured.Projects`
 
 <div align="center">
 
@@ -194,19 +192,6 @@ Hands-on work exploring machine learning, data analysis and predictive solutions
 ---
 
 ## `Leetcode`
-
-<div align="center">
-
-<a href="https://leetcode.com/u/Nimisha_nyx/">
-
-<img
-src="https://leetcard.jacoblin.cool/Nimisha_nyx?theme=dark&font=Karma&ext=heatmap"
-alt="Nimisha's LeetCode Stats"
-/>
-
-</a>
-
-<br><br>
 
 <a href="https://leetcode.com/u/Nimisha_nyx/">
 <img src="https://img.shields.io/badge/LeetCode_Profile-18161C?style=for-the-badge&logo=leetcode&logoColor=C9A7B8"/>
